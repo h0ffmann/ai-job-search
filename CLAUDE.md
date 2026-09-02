@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Matheus Hoffmann
 
 <!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+<!-- Profile last updated: 2026-09-02 via Path A (documents folder) -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Matheus Hoffmann, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +16,92 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Matheus Hoffmann
+- **Location:** Florianópolis, Santa Catarina, Brazil (Open to remote, US/BR timezone preferred)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | English | C1 / Advanced / Fluent |
+  | Portuguese | Native |
+  | Spanish | Fluent reading |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Between roles (ITV role ended August 2026)
+- **LinkedIn headline:** "Sr. Backend Engineer | ML | MLOps | Scala | Python | AWS"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Bachelor's in Computer Engineering** (2013-2020, paused, ongoing final project) - Federal University of Rio de Janeiro (UFRJ)
+  - Topics: Electronics, embedded systems, signal processing
+- **Technician in Electronics** (2010-2012) - Federal Center of Technology CEFET/RJ
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Sr. Machine Learning Operations (MLOps) Engineer** (July 2025 - August 2026) - **TXP/ITV** (London, UK, Remote)
+  - Re-architected single-channel forecasting pipeline into multi-channel platform for ITV2, ITV3, ITV Quiz
+  - Owned end-to-end ML pipelines (AWS Airflow, Glue, SageMaker, MLflow, DynamoDB)
+
+- **Senior ML Engineer II - L5** (June 2022 - November 2024) - **Signifyd** (San Jose, CA, USA, Remote)
+  - Reduced loss forecast model experimentation time by 93% (16 hours → 1 hour) through optimization and PySpark refactoring
+  - Won "Values VIP: Tenacious" award (February 2024) for technical excellence
+  - Worked with anomaly detection systems and risk analysis on Databricks platform
+
+- **Lead Machine Learning Operations Engineer** (June 2021 - July 2022) - **Elemeno AI** (San Francisco, CA, USA, Remote)
+  - Designed and implemented full open-source MLOps stack (Kubeflow, GKE, MinIO, ArgoCD) for client Americanas
+  - Open-source contributions: elabs-mlflow, elemeno-ai-sdk, spark-on-kf
+
+- **Senior Software Engineer** (November 2020 - June 2021) - **Broad (YC W21)** (London, UK, Remote)
+  - Mobile app development (Flutter/Dart) and backend processing (Scala, Event Sourcing, Kafka)
+
+- **Software Engineer** (May 2019 - November 2020) - **iU Pay / Guiabolso** (São Paulo, SP, Brazil, Remote)
+  - Core contributor to Brazil's first instant cross-bank transaction engine (8 months before Pix launch)
+  - Worked with Apache Cassandra, Kafka, Event Sourcing, and RPA
+
+- **Software Developer** (October 2017 - April 2019) - **Stone** (Rio de Janeiro, SP, Brazil, Remote)
+  - POS carrier recommendation system: reduced costs by 35%
+  - Migrated churn prediction models from Bayesian Networks to XGBoost/LightGBM on Spark
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** AWS (full stack), Scala, Python, Spark, Databricks, Delta Lake, MLflow, Apache Kafka, Kubernetes, Docker, Terraform, ETL/ELT, Clean architecture
+- **Secondary:** GCP, CI/CD (GitHub Actions, GitLab CI, Jenkins, Tekton), dbt, PostgreSQL, Bash, TypeScript, FastAPI
+- **Domain:** MLOps infrastructure, fintech/payment systems, fraud detection/risk analysis, real-time data processing, broadcast/media technology
+- **Software:** AWS (S3, EC2, ECR, EKS, EMR, Kinesis, Redshift, Glue, SageMaker), Databricks, Kubernetes, Docker, Terraform, Airflow, Kubeflow, ArgoCD, GitHub, GitLab
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
-
-### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified Machine Learning – Specialty**
+- **AWS Certified Machine Learning Engineer - Associate**
+- **AWS Certified Data Engineer - Associate**
+- **PADI Rescue Diver**
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- **Signifyd "Values VIP: Tenacious"** - Technical excellence award via employee voting (February 2024)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Proactive problem-solver:** Breaks down complex infrastructure challenges; drives execution end-to-end
+- **Technical leadership:** Comfortable defining technical strategy and influencing across teams
+- **Adaptability:** Successfully navigated transitions across domains (Scala/backend → Python/ML/MLOps → broadcast tech)
+- **Ownership mindset:** Takes full responsibility for systems, not just components
+- **Strengths:** Technical depth, rapid learning, measurable impact delivery, communication across teams
+- **Growth areas:** Communicating with non-technical audiences (business stakeholders), cross-team strategic thinking
+- **Thrives in:** End-to-end ownership, fast-paced environments, technical autonomy, collaborative but not consensus-heavy teams
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building scalable infrastructure and solving complex system performance problems
+- Mentoring engineers and influencing technical direction
+- Learning new domains and technologies
+- Working on high-impact systems that unlock new capabilities for teams
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- **Fintech:** Payment systems, fraud prevention, risk analysis
+- **AI/ML:** ML infrastructure, MLOps platforms, AI-first startups
+- **Tech:** Cloud platforms, backend systems, data engineering
+- **Media/Broadcast:** Real-time systems, forecasting platforms
+- **E-commerce:** Fraud detection, recommendation systems, logistics optimization
+- **Climate:** Scalable data infrastructure for environmental/climate applications
+- **Instrumentation/IoT:** Real-time signal processing, embedded systems
+- **Blockchain:** Infrastructure, backend systems
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- None stated; open to most opportunities with good technical team and growth potential
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

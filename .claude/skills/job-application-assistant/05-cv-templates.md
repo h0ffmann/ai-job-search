@@ -129,12 +129,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For MLOps / ML Infrastructure Engineer roles:**
+> Senior MLOps Engineer with 7+ years of experience scaling machine learning infrastructure across payment processing, fraud prevention, and media platforms. Expert in AWS (Airflow, Glue, SageMaker, Redshift), Databricks, Spark, and orchestration tools (Kubeflow, ArgoCD). Track record of 10x+ efficiency improvements through strategic architecture redesign. Proactive collaborator with data science and engineering teams; built and led infrastructure decisions at companies ranging from startups (Elemeno AI) to established platforms (Signifyd, ITV).
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Data/Backend Engineering roles with Python/Scala focus:**
+> Full-stack software engineer with 7+ years building scalable systems in Python and Scala. Expertise spans real-time data pipelines (Kafka, Spark, Databricks), backend architecture (microservices, event sourcing, distributed systems), and cloud infrastructure (AWS, Kubernetes, Terraform). Proven ability to optimize critical systems for performance and cost; reduced model experimentation time by 93%, cut infrastructure costs by 35%. Detail-oriented and proactive, with strong communication skills across technical and non-technical stakeholders.
+
+**For Fintech / Real-Time Systems roles:**
+> Software engineer specialized in high-reliability fintech systems and real-time data processing. Contributed to Brazil's first instant cross-bank transaction engine (Pix ecosystem), fraud prevention platforms serving major e-commerce players (Walmart, Samsung, DoorDash), and payment infrastructure at scale. Fluent in event-driven architecture, Apache Kafka, distributed transactions, and microservices. Comfortable working with complex requirements under high stakes; proven collaborator with compliance, data science, and operations teams.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

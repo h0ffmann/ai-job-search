@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** AWS (S3, EC2, EKS, EMR, Kinesis, Redshift, Glue, SageMaker), Scala, Python, Spark, Databricks/Delta Lake, MLflow, Apache Kafka, Kubernetes, Docker, Terraform, ETL/ELT pipelines, distributed systems, real-time data processing
+**Moderate match areas:** GCP (Kubernetes, BigQuery), machine learning (model training, feature engineering, experimentation), backend engineering, CI/CD (GitHub Actions, GitLab CI), dbt, SQL optimization
+**Weak match areas:** Mobile development (Flutter/Dart is beginner-level), Java/JVM depth, frontend web development, Golang/Rust production experience
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** MLOps/ML infrastructure, fintech/payment systems, fraud detection and risk analysis, real-time data systems, broadcast/media technology, backend engineering (Scala), distributed systems at scale
+**Moderate:** Data engineering, feature engineering, ML model training and experimentation, cross-functional technical leadership, platform/SaaS infrastructure
+**Entry-level:** Mobile app development, pure data science (statistics-heavy research roles)
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,14 +107,15 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Lead technical strategy and architecture for ML/data infrastructure at growing companies
+- Become a recognized expert in MLOps and production ML systems
+- Mentor junior engineers and influence technical direction across organizations
+- Work on high-impact infrastructure that enables data science and product teams to move faster
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Building scalable infrastructure; solving performance/efficiency problems; shipping systems that unlock new capabilities; mentoring engineers; learning new technologies in depth
+- Tasks that drain: Maintenance-heavy work with no modernization; pure on-call/support rotations; environments with heavy process and low autonomy; unclear requirements
+- Non-task factors: Autonomy to make technical decisions; clear impact metrics; supportive team culture; learning opportunities in new domains
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
